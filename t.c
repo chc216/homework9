@@ -21,13 +21,14 @@ int freeBST(Node* head);
 
 
 
-
 int main()
 {
     char command;
     int key;
     Node* head = NULL;
     Node* ptr = NULL;    /* 임시 포인터 */
+
+    printf("[-----[최 현 철]    [2022078014]-----]");
 
     do {
         printf("\n\n");
